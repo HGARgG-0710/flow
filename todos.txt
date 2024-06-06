@@ -1,0 +1,10 @@
+1. add more different modules with new functions!
+
+	[Essentially, just collections of functions put via 'convert'...]; 
+
+2. [Later] when working further on JS-code parsing - create a version that WOULDN'T have to double the stack usage whenever using this style; 
+
+	Currently, 2 stack frames are wasted on a function. 
+	[This is a result of doing it this way]
+
+3. Add more DOM stuff to the library.

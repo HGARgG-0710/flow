@@ -1,0 +1,16 @@
+{
+	"name": "@hgargg-0710/flow",
+	"description": "'flow' is a small JavaScript library containing some methods for organizing code with mutating functions in a particular way.",
+	"version": "0.0.1",
+	"type": "module",
+	"main": "main.mjs",
+	"bugs": {
+		"url": "https://github.com/HGARgG-0710/flow/issues"
+	},
+	"homepage": "https://github.com/HGARgG-0710/flow#readme",
+	"keywords": [
+		"function",
+		"flow",
+		"mutate"
+	]
+}
